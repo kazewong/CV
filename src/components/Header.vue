@@ -23,7 +23,7 @@ export default {
 
     </div>
     <div class="logolist">
-        <a  v-for="logo in logos" :href=logo.link>
+        <a  v-for="logo in logos" :href=logo.link target="_blank"  rel="noopener noreferrer">
             <img :src=logo.file class="logo" align="right">
         </a>
     </div>
