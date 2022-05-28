@@ -1,5 +1,7 @@
 <script setup>
 import Header from './components/Header.vue';
+import Block from './components/Block.vue';
+import List from './components/List.vue';
 </script>
 
 <template>
@@ -11,7 +13,12 @@ import Header from './components/Header.vue';
 
   <main>
       <Header />
-  </main>
+      <Block title="Education"/>
+      <Block title="Education"/>
+      <List />
+
+
+</main>
 </div>
 </template>
 

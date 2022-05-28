@@ -19,7 +19,7 @@ img{
     height: 150px;
     border-radius: 50%;
     position: absolute;
-    top: 50px;
+    top: 0px;
     left: 50px;
     border: 5px solid #fff;
     box-shadow: 3px 3px 20px #000;
@@ -27,12 +27,13 @@ img{
 
 
 .description{
-    width: 60%;
+    width: 70%;
     margin-left: auto;
     margin-right: 10%;
-    color: #000;
-    top: 50px;
+    color: #fff;
+    top: 20px;
     left: 50px;
+    text-align: left;
 }
 
 .header{
