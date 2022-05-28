@@ -1,9 +1,10 @@
 <script>
-import educationHistory from '../assets/education.json';
+import educationHistory from '../assets/json/education.json';
 
 export default {
   data() {
     return {
+      show: true,
       file: educationHistory
     }
   }
@@ -11,8 +12,9 @@ export default {
 </script>
 
 <template>
+<ul>
     <li v-for="history in file" :key="history.id">
-        {{ history.name 
-        }}
+        {{ history.name }}
     </li>
+  </ul>
 </template>

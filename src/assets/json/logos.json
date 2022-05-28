@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "file": "src/assets/images/Twitter_logo_trans.png",
+        "link": "https://twitter.com/physicskaze"
+    },
+    {
+        "id": 2,
+        "file": "src/assets/images/Youtube_logo_trans.png",
+        "link": "https://www.youtube.com/channel/UCt6jkLTx5GBkGQ57HiPaeLg"
+    },
+    {
+        "id": 3,
+        "file": "src/assets/images/Github_logo_trans.png",
+        "link": "https://github.com/kazewong"
+    },
+    {
+        "id": 4,
+        "file": "src/assets/images/Linkedin_logo_trans.png",
+        "link": "https://www.linkedin.com/in/kazewkwong/"
+    }
+]

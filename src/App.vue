@@ -23,7 +23,7 @@ import List from './components/List.vue';
 </template>
 
 <style>
-@import './assets/base.css';
+@import './assets/css/base.css';
 
 .print{
   width: 8.5in;
