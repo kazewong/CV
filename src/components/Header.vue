@@ -18,11 +18,14 @@ export default {
     <div class="description">
         <h1>Kaze, Wang-Kei Wong</h1>
         <h5>Postdoctoral researcher</h5>
-        <h5>Center of Computational Astrophysics</h5>
-        <a  v-for="logo in logos" :href=logo.link>
-            <img :src=logo.file class="logo">
-        </a>
+        <h5>Center of Computational Astrophysics, Flatiron Institute</h5>
+        <h5> Gravitational-wave, Data science, Machine learning</h5>
 
+    </div>
+    <div class="logolist">
+        <a  v-for="logo in logos" :href=logo.link>
+            <img :src=logo.file class="logo" align="right">
+        </a>
     </div>
 </div>
 </template>
@@ -44,10 +47,15 @@ h5{
     box-shadow: 3px 3px 20px #000;
 }
 
+.logolist{
+    padding-right: 3%;
+}
+
 .logo{
     width: 40px;
     height: 40px;
     padding: 5px;
+    /* filter: saturate(0%) invert(100%) brightness(300%); */
 }
 
 
