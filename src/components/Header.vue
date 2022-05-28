@@ -1,6 +1,5 @@
 <script>
 import logoList from '../assets/json/logos.json';
-import LogoList from './LogoList.vue';
 export default {
     data() {
         return {
@@ -8,7 +7,6 @@ export default {
             logos: logoList
         };
     },
-    components: { LogoList }
 }
 </script>
 
