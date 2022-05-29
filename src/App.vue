@@ -1,7 +1,6 @@
 <script setup>
 import Header from './components/Header.vue';
-import Block from './components/Block.vue';
-import List from './components/List.vue';
+import Education from './components/Education.vue';
 </script>
 
 <template>
@@ -13,9 +12,7 @@ import List from './components/List.vue';
 
   <main>
       <Header />
-      <Block title="Education"/>
-      <Block title="Education"/>
-      <List />
+      <Education />
 
 
 </main>

@@ -37,12 +37,12 @@ h5{
 }
 
 .portrait{
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     border-radius: 50%;
     position: absolute;
-    top: 0px;
-    left: 50px;
+    top: 10px;
+    left: 30px;
     border: 5px solid #fff;
     box-shadow: 3px 3px 20px #000;
 }
