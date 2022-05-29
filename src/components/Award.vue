@@ -3,27 +3,22 @@
 
 <template>
 <div class="content">
-  <h1 class="title">Education</h1>
+  <h1 class="title">Honors</h1>
   <div class="row">
     <div class="left">
-      <h1>Ph.D in Physics and Astronomy</h1>
-      <h3>Johns Hopkins University</h3>
-      <h3>Thesis title: Building new tools for gravitational wave astronomy</h3>
-      <h3>Theseis advisor: Emanuele Berti</h3>
+      <h3><a href="https://gwic.ligo.org/thesis-prize.html">GWIC-Braccini thesis prize</a></h3>
+      <h3><a href="http://www.hpc-europa.eu/">HPC-Europa 3 Transnational Access Programme</a></h3>
+      <h3><a href="https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmmes/scholarship.html">HKSAR Reaching Out Award</a></h3>
+      <h3><a href="http://www.na.cuhk.edu.hk/en-us/studentenrichment/scholarshipsandsubsidies/studentstudytripscheme.aspx">New Asia Collage Student Study Trip Scheme</a></h3>
+      <h3><a href="http://www.phy.cuhk.edu.hk/admission/scholarships.html">C.N. Yang Scholarship</a></h3>
     </div>
     <div class="right">
-      <h3>May 2021</h3>
-      </div>
-  </div>
-  <div class="row">
-    <div class="left">
-      <h1>B.Sc. in Physics</h1>
-      <h3>The Chinese University of Hong Kong</h3>
-      <h3>Research advisors: Ming-Chung Chu, Shirley Ho, Tjonnie G.F. Li</h3>
+      <h3>2021</h3>
+      <h3>2020</h3>
+      <h3>2015</h3>
+      <h3>2015</h3>
+      <h3>2014</h3>
     </div>
-    <div class="right">
-      <h3>Aug 2017</h3>
-      </div>
   </div>
 </div>
 </template>
@@ -39,6 +34,9 @@
     font-weight: 800;
 }
 
+a{
+  padding: 0%;
+}
 .left{
   float: left;
   width: 70%;
