@@ -6,7 +6,7 @@
   <h1 class="title">Education</h1>
   <div class="row">
     <div class="left">
-      <h2 class="subtitle">Ph.D in Physics and Astronomy</h2>
+      <h1>Ph.D in Physics and Astronomy</h1>
       <h3>Johns Hopkins University</h3>
       <h3>Thesis title: Building new tools for gravitational wave astronomy</h3>
       <h3>Theseis advisor: Emanuele Berti</h3>
@@ -17,7 +17,7 @@
   </div>
   <div class="row">
     <div class="left">
-      <h2 class="subtitle">B.Sc. in Physics</h2>
+      <h1>B.Sc. in Physics</h1>
       <h3>The Chinese University of Hong Kong</h3>
       <h3>Research advisors: Ming-Chung Chu, Shirley Ho, Tjonnie G.F. Li</h3>
     </div>
@@ -37,11 +37,6 @@
 .title {
     font-size: 40px;
     font-weight: 800;
-}
-
-.subtitle{
-  font-size: 25px;
-  font-weight: 800;
 }
 
 .left{

@@ -1,6 +1,8 @@
 <script setup>
 import Header from './components/Header.vue';
 import Education from './components/Education.vue';
+import Position from './components/Position.vue';
+import Award from './components/Award.vue';
 </script>
 
 <template>
@@ -12,7 +14,9 @@ import Education from './components/Education.vue';
 
   <main>
       <Header />
+      <Position />
       <Education />
+      <Award />
 
 
 </main>
