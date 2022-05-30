@@ -1,12 +1,23 @@
 <script>
 import logoList from '../assets/json/logos.json';
 export default {
-    data() {
+
+    setup(){
+            const getImageUrl = (name) => {
+        return new URL(`../assets/images/${name}`, import.meta.url).href
+    }  
         return {
+            getImageUrl
+        }
+    },
+    data() {
+
+    return {
             show: true,
             logos: logoList
         };
     },
+
 }
 </script>
 
@@ -24,7 +35,7 @@ export default {
     </div>
     <div class="logolist">
         <a  v-for="logo in logos" :href=logo.link target="_blank"  rel="noopener noreferrer">
-            <img :src=logo.file class="logo" align="right">
+            <img :src="getImageUrl(logo.file)" class="logo" align="right">
         </a>
     </div>
 </div>
