@@ -12,7 +12,7 @@ export default {
 
 <template>
 <div class="content">
-  <h1 class="title">Publication</h1>
+  <h1 class="title">Publications</h1>
   <div v-for="publication in publications" class="row">
     <div class="left">
       <h4 class="subtitle">{{publication.name}}</h4>
