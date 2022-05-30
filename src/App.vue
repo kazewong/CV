@@ -3,6 +3,7 @@ import Header from './components/Header.vue';
 import Education from './components/Education.vue';
 import Position from './components/Position.vue';
 import Award from './components/Award.vue';
+import Publication from './components/Publication.vue';
 </script>
 
 <template>
@@ -17,6 +18,7 @@ import Award from './components/Award.vue';
       <Position />
       <Education />
       <Award />
+      <Publication />
 
 
 </main>
