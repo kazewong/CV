@@ -5,61 +5,197 @@
         "url": "https://inspirehep.net/literature/2004467",
         "year": "2022",
         "publication": "e-Print:2201.01817",
-        "Author": "Joseph Gais, Ken Ng, Eungwang Seo, <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>, Tjonnie G.F. Li"
+        "Author": "Joseph Gais, Ken Ng, Eungwang Seo, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Tjonnie G.F. Li"
     },
     {
         "name": "The CAMELS project: public data release",
         "url": "https://inspirehep.net/literature/2001861",
         "year": "2022",
         "publication": "e-Print:2201.01300",
-        "Author": "Francisco Villaescusa-Navarro, Shy Genel, Daniel Anglés-Alcázar, Lucia A. Perez, Pablo Villanueva-Domingo, et al. (Include <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>)"
+        "Author": "Francisco Villaescusa-Navarro, Shy Genel, Daniel Anglés-Alcázar, Lucia A. Perez, Pablo Villanueva-Domingo, et al. (Include <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
     },
     {
         "name": "Searching for a subpopulation of primordial black holes in LIGO-Virgo gravitational-wave data",
         "url": "https://inspirehep.net/literature/1862504",
         "year": "2022",
         "publication": "Phys.Rev.D 105 (2022) 8,083526",
-        "Author": "Gabriele Franciolini, Vishal Baibhav, Valerio De Luca, Ken K.Y. Ng, <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>, et al."
+        "Author": "Gabriele Franciolini, Vishal Baibhav, Valerio De Luca, Ken K.Y. Ng, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, et al."
     },
     {
         "name": "Testing the robustness of simulation-based gravitational-wave population inference",
         "url": "https://inspirehep.net/literature/1989109",
         "year": "2021",
         "publication": "e-Print:2112.06707",
-        "Author": "Damon H.T. Cheung, <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>, Otto A. Hannuksela, Tjonnie G.F. Li"
+        "Author": "Damon H.T. Cheung, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Otto A. Hannuksela, Tjonnie G.F. Li"
     },
     {
         "name": "The CAMELS Multifield Data Set: Learning the Universe’s Fundamental Parameters with Artificial Intelligence",
         "url": "https://inspirehep.net/literature/1926276",
         "year": "2021",
         "publication": "Astrophys.J.Supp. 259 (2022) 2,61",
-        "Author": "Francisco Villaescusa-Navarro, Shy Genel, Daniel Angles-Alcázar, Leander Thiele, Romeel Dave, et al. (Include <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>)"
+        "Author": "Francisco Villaescusa-Navarro, Shy Genel, Daniel Angles-Alcázar, Leander Thiele, Romeel Dave, et al. (Include <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
     },
     {
         "name": "Hunting intermediate-mass black holes with LISA binary radial velocity measurements",
         "url": "https://inspirehep.net/literature/1923646",
         "year": "2021",
         "publication": "e-Print:2109.08154",
-        "Author": "Vladimir Strokov, Giacomo Fragione, <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>, Thomas Helfer, Emanuele Berti"
+        "Author": "Vladimir Strokov, Giacomo Fragione, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Thomas Helfer, Emanuele Berti"
     },
     {
         "name": "Building new tools for gravitational wave astronomy",
         "url": "https://inspirehep.net/literature/1976637",
         "year": "2021",
-        "Author": "<span style='color: #0000aa;font-weight:800'>Wang Kei Wong</span>"
+        "Author": "<span style='color: #0000aa;font-weight:700'>Wang Kei Wong</span>"
     },
     {
         "name": "Discriminating between different scenarios for the formation and evolution of massive black holes with LISA",
         "url": "https://inspirehep.net/literature/1870529",
         "year": "2021",
         "publication": "10.1103/PhysRevD.104.083027",
-        "Author": "Alexandre Toubiana, <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>, Stanislav Babak, Enrico Barausse, Emanuele Berti"
+        "Author": "Alexandre Toubiana, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Stanislav Babak, Enrico Barausse, Emanuele Berti"
     },
     {
         "name": "Looking for the parents of LIGO’s black holes",
         "url": "https://inspirehep.net/literature/1865631",
         "year": "2021",
         "publication": "Phys.Rev.D 104 (2021) 8,084002",
-        "Author": "Vishal Baibhav, Emanuele Berti, Davide Gerosa, Matthew Mould, <span style='color: #0000aa;font-weight:800'>Kaze W.K. Wong</span>"
+        "Author": "Vishal Baibhav, Emanuele Berti, Davide Gerosa, Matthew Mould, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>"
+    },
+    {
+        "name": "The missing link in gravitational-wave astronomy: A summary of discoveries waiting in the decihertz range",
+        "url": "https://inspirehep.net/literature/1861621",
+        "year": "2021",
+        "publication": "Exper.Astron. 51 (2021) 3,1427-1440",
+        "Author": "Manuel Arca Sedda, Christopher P.L. Berry, Karan Jani, Pau Amaro-Seoane, Pierre Auclair, et al. (Includes <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
+    },
+    {
+        "name": "GRChombo: An adaptable numerical relativity code for fundamental physics",
+        "url": "https://inspirehep.net/literature/2007050",
+        "year": "2021",
+        "publication": "J.Open Source Softw. 6 (2021), 3703",
+        "Author": "Tomas Andrade, Llibert Areste Salo, Josu C. Aurrekoetxea, Jamie Bamber, Katy Clough, et al.(Includes <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
+    },
+    {
+        "name": "Joint constraints on the field-cluster mixing fraction, common envelope efficiency, and globular cluster radii from a population of binary hole mergers via deep learning",
+        "url": "https://inspirehep.net/literature/1828977",
+        "year": "2021",
+        "publication": "Phys.Rev.D 103 (2021) 8,083021",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Katelyn Breivik, Kyle Kremer, Thomas Callister"
+    },
+    {
+        "name": "Constraining the primordial black hole scenario with Bayesian inference and machine learning: the GWTC-2 gravitational wave catalog",
+        "url": "https://inspirehep.net/literature/1827880",
+        "year": "2021",
+        "publication": "Phys.Rev.D 103 (2021) 2,023026",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Gabriele Franciolini, Valerio De Luca, Emanuele Berti"
+    },
+    {
+        "name": "Gravitational-wave signal-to-noise interpolation via neural networks",
+        "url": "https://inspirehep.net/literature/1808143",
+        "year": "2020",
+        "publication": "e-Print:2007.10350",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Ken K.Y. Ng, Emanuele Berti"
+    },
+    {
+        "name": "Distinguishing double neutron star from neutron star-black hole binary populations with gravitational wave observations",
+        "url": "https://inspirehep.net/literature/1794398",
+        "year": "2020",
+        "publication": "Phys.Rev.D 102 (2020) 2,023025",
+        "Author": "Margherita Fasano, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Andrea Maselli, Emanuele Berti, Valeria Ferrari et al."
+    },
+    {
+        "name": "The mass gap, the spin gap, and the origin of merging binary black holes",
+        "url": "https://inspirehep.net/literature/1789427",
+        "year": "2020",
+        "publication": "Phys.Rev.D 102 (2020) 4,043002",
+        "Author": "Vishal Baibhav, Davide Gerosa, Emanuele Berti, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Thomas Helfer"
+    },
+    {
+        "name": "Gravitational wave population inference with deep flow-based generative network",
+        "url": "https://inspirehep.net/literature/1781940",
+        "year": "2020",
+        "publication": "Phys.Rev.D 101 (2020) 12,123005",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Gabriella Contardo, Shirley Ho"
+    },
+
+    {
+        "name": "The missing link in gravitational-wave astronomy: discoveries waiting in the decihertz range",
+        "url": "https://inspirehep.net/literature/1751948",
+        "year": "2020",
+        "publication": "Class.Quant.Grav. 37 (2020) 21,215011",
+        "Author": "Manuel Arca Sedda, Christopher P.L. Berry, Karan Jani, Pau Amaro-Seoane, Pierre Auclair, et al. (Includes <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)" 
+    },
+    {
+        "name": "Unveiling the gravitational universe at mu-Hz frequencies",
+        "url": "https://inspirehep.net/literature/1751957",
+        "year": "2020",
+        "publication": "Exper.Astron. 51 (2021) 3,1333-1383",
+        "Author": "Alberto Sesana, Natalia Korsakova, Manuel Arca Sedda, Vishal Baibhav, Enrico Barausse, et al. (Includes <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
+    },
+    {
+        "name": "Machine-learning interpolation of population-synthesis simulations to interpret gravitational-wave observations: a case study",
+        "url": "https://inspirehep.net/literature/1754203",
+        "year": "2019",
+        "publication": "Phys.Rev.D 100 (2019) 8,083015",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Davide Gerosa"
+    },
+    {
+        "name": "What we can learn from multi-band observations of black hole binaries",
+        "url": "https://inspirehep.net/literature/1724470",
+        "year": "2019",
+        "publication": "e-Print:1903.04069",
+        "Author": "Curt Cutler, Ely D. Kovetz, Emanuele Berti, Karan Jani, Lisa Randall, et al. (Includes <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
+    },
+    {
+        "name": "Binary radial velocity measurements with space-based gravitational-wave detectors",
+        "url": "https://inspirehep.net/literature/1718559",
+        "year": "2019",
+        "publication": "Mon.Not.Roy.Astron.Soc. 488 (2019) 4,5665-5670",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Vishal Baibhav, Emanuele Berti"
+    },
+    {
+        "name": "Multiband gravitational-wave event rates and stellar physics",
+        "url": "https://inspirehep.net/literature/1718117",
+        "year": "2019",
+        "publication": "Phys.Rev.D 99 (2019) 10,103004",
+        "Author": "Davide Gerosa, Sizheng Ma, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Emanuele Berti, Richard O'Shaughnessy et al."
+    },
+    {
+        "name": "On the possibility of detecting ultrashort period exoplanets with LISA",
+        "url": "https://inspirehep.net/literature/1689396",
+        "year": "2019",
+        "publication": "Mon.Not.Roy.Astron.Soc. 483 (2019) 1,L33-L36",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Emanuele Berti, William E. Gabella, Kelly Holley-Bockelmann"
+    },
+    {
+        "name": "Probing the existence of ultralight bosons with a single gravitational-wave measurement",
+        "url": "https://inspirehep.net/literature/1670055",
+        "year": "2019",
+        "publication": "Nature Astron. 3 (2019) 5, 447-451",
+        "Author": "Otto A. Hannuksela, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Richard Brito, Emanuele Berti, Tjonnie G.F. Li"
+    },
+    {
+        "name": "Expanding the LISA Horizon from the Ground",
+        "url": "https://inspirehep.net/literature/1691633",
+        "year": "2018",
+        "publication": "Phys.Rev.Lett. 121 (2018) 25,251102",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Ely D. Kovetz, Curt Cutler, Emanuele Berti"
+    },
+    {
+        "name": "Precise LIGO Lensing Rate Predictions for Binary Black Holes",
+        "url": "https://inspirehep.net/literature/1518340",
+        "year": "2018",
+        "publication": "Phys.Rev.D 97 (2018) 2,023012",
+        "Author": "Ken K.Y. Ng, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Tom Broadhurst, Tjonnie G.F. Li"
+    },
+
+    {
+        "name": "Filtering interlopers from galaxy surveys",
+        "url": "https://inspirehep.net/literature/1472925",
+        "year": "2016",
+        "publication": "e-Print:1606.08864",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Anthony Pullen, Shirley Ho"
     }
+    
 ]
