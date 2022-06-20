@@ -28,8 +28,8 @@ import Publication from './components/Publication.vue';
 <style>
 @import './assets/css/base.css';
 
-.print{
+/* .print{
   width: 8.5in;
   height: 11in;
-}
+} */
 </style>
