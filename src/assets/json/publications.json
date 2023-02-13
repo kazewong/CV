@@ -1,18 +1,38 @@
-
 [
     {
-        "name": "Backward Population Synthesis: Mapping the Evolutionary History of Gravitational-Wave Progenitors",
-        "url": "https://inspirehep.net/literature/2093824",
+        "name": "Fast gravitational wave parameter estimation without compromises",
+        "url": "https://inspirehep.net/literature/2631115",
+        "year": "2023",
+        "publication": "e-Print:2302.05333",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Maximiliano Isi, Thomas D.P. Edwards"
+    },
+    {
+        "name": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
+        "url": "https://inspirehep.net/literature/2631117",
+        "year": "2023",
+        "publication": "e-Print:2302.05329",
+        "Author": "Thomas D.P. Edwards, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Kelvin K.H. Lam, Adam Coogan, Daniel Foreman-Mackey, Maximiliano Isi"
+    },
+    {
+        "name": "Normalizing Flows for Hierarchical Bayesian Analysis: A Gravitational Wave Population Study",
+        "url": "https://inspirehep.net/literature/2182805",
         "year": "2022",
-        "publication": "e-Print:2206.04062",
-        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Katelyn Breivik, Will M. Farr, Rodrigo Luger"
+        "publication": "e-Print:2211.09008",
+        "Author": "David Ruhe, <span style='color: #0000aa;font-weight:700'>Kaze Wong</span>, Miles Cranmer, Patrick Forré"
+    },
+    {
+        "name": "A Sun-like star orbiting a black hole",
+        "url": "https://inspirehep.net/literature/2512762",
+        "year": "2022",
+        "publication": "Mon.Not.Roy.Astron.Soc. 518 (2023) 1, 1057-1085",
+        "Author": "Kareem El-Badry, Hans-Walter Rix, Eliot Quataert, Andrew W. Howard, Howard Isaacson, Keith Hawkins, Katelyn Breivik, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Antonio C. Rodriguez, Sahar Shahaf, Tsevi Mazeh, Frédéric Arenou, Kevin B. Burdge, Dolev Bashi, Daniel R. Weisz, Rhys Seeburger, Silvia Almada Monter, Jennifer Wojno"
     },
     {
         "name": "Nonlinear effects in black hole ringdown",
         "url": "https://inspirehep.net/literature/2136587",
         "year": "2022",
-        "publication": "e-Print:2208.07374",
-        "Author": "Mark Ho-Yeuk Cheung, Vishal Baibhav, Emanuele Berti, Vitor Cardoso, Gregorio Carullo, et al. (Include <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>)"
+        "publication": "e-Print:2209.06833",
+        "Author": "Mark Ho-Yeuk Cheung, Vishal Baibhav, Emanuele Berti, Vitor Cardoso, Gregorio Carullo, Roberto Cotesta, Walter Del Pozzo, Francisco Duque, Thomas Helfer, Estuti Shukla, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>"        
     },
     {
         "name": "Automated discovery of interpretable gravitational-wave population models",
@@ -20,6 +40,13 @@
         "year": "2022",
         "publication": "e-Print:2207.12409",
         "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Miles Cranmer"
+    },
+    {
+        "name": "Backward Population Synthesis: Mapping the Evolutionary History of Gravitational-Wave Progenitors",
+        "url": "https://inspirehep.net/literature/2093824",
+        "year": "2022",
+        "publication": "e-Print:2206.04062",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Katelyn Breivik, Will M. Farr, Rodrigo Luger"
     },
     {
         "name": "Inferring the Intermediate Mass Black Hole Number Density from Gravitational Wave Lensing Statistics",
