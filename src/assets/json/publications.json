@@ -6,6 +6,14 @@
         "publication": "arXiv:2309.14294",
         "Author": "Jiadong Li, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, David W. Hogg, Hans-Walter Rix, Vedant Chandra"
     },
+
+    {
+        "name": "Towards Unbiased Gravitational-Wave Parameter Estimation using Score-Based Likelihood Characterization",
+        "url": "https://ml4astro.github.io/icml2023/assets/70.pdf",
+        "year": "2023",
+        "publication": "ICML Machine learning for astrophysics workshop poster",
+        "Author": "Ronan Legin, Maximiliano Isi, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Alexandre Adam, Laurence Perreault-Levasseur, Yashar Hezaveh"
+    }
     {
         "name": "Recalibrating Gravitational Wave Phenomenological Waveform Model",
         "url": "https://inspirehep.net/literature/2673384",

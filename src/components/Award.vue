@@ -3,7 +3,7 @@
 
 <template>
 <div class="content">
-  <h1 class="title">Honors</h1>
+  <h1 class="title">Awards</h1>
   <div class="row">
     <div class="left">
       <h3><a href="https://gwic.ligo.org/thesis-prize.html">GWIC-Braccini thesis prize</a></h3>

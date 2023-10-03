@@ -4,6 +4,9 @@ import Education from './components/Education.vue';
 import Position from './components/Position.vue';
 import Award from './components/Award.vue';
 import Publication from './components/Publication.vue';
+import Biosketch from './components/Biosketch.vue';
+import Software from './components/Software.vue';
+import Teaching from './components/Teaching.vue';
 </script>
 
 <template>
@@ -15,9 +18,12 @@ import Publication from './components/Publication.vue';
 
   <main>
       <Header />
-      <Position />
+      <Biosketch />
       <Education />
+      <Position />
       <Award />
+      <Software />
+      <Teaching />
       <Publication />
 
 

@@ -25,7 +25,7 @@
       </div>
   </div>
 
-  <div class="row">
+  <!-- <div class="row">
     <div class="left">
       <h2 class="subtitle">Research Intern</h2>
       <h3>The Chinese University of Hong Kong</h3>
@@ -45,7 +45,7 @@
       </div>
   </div>
 
-    <div class="row">
+  <div class="row">
     <div class="left">
       <h2 class="subtitle">Summer research Intern</h2>
       <h3>The Chinese University of Hong Kong</h3>
@@ -53,7 +53,7 @@
     <div class="right">
       <h3>May 2014 - Aug 2014</h3>
       </div>
-  </div>
+  </div> -->
 </div>
 </template>
 

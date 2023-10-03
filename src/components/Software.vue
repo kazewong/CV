@@ -3,13 +3,27 @@
 
 <template>
 <div class="content">
-  <h1 class="title">Teaching</h1>
+  <h1 class="title">Softwares/Services</h1>
   <div class="row">
     <div class="left">
       <h2 class="subtitle">flowMC</h2>
       <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
     </div>
   </div>
+  <div class="row">
+    <div class="left">
+      <h2 class="subtitle">jim</h2>
+      <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="left">
+      <h2 class="subtitle">flowMC</h2>
+      <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
+    </div>
+  </div>
+
+
 </div>
 </template>
 

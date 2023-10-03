@@ -2,31 +2,20 @@
 </script>
 
 <template>
-<div class="content">
-  <h1 class="title">Teaching</h1>
-  <div class="row">
-    <div class="left">
-      <h2 class="subtitle">flowMC</h2>
-      <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
+    <div class="content" style="margin-top: 10px;">
+        <div class="row">
+            <h3>I focus on building open-source machine learning-enhanced softwares for fundamental science communities to take on challenges that are progress-limiting,
+                and I deeply care about code performance, usability, and flexibility. I am 
+
+            </h3>
+        </div>
     </div>
-  </div>
-</div>
 </template>
 
 <style scoped>
 *{
     padding-left: 10px;
     font-family: 'Roboto', sans-serif;
-}
-
-.title {
-    font-size: 40px;
-    font-weight: 800;
-}
-
-.subtitle{
-  font-size: 25px;
-  font-weight: 800;
 }
 
 .left{
