@@ -1,5 +1,26 @@
 [
     {
+        "name": "AspGap: Augmented Stellar Parameters and Abundances for 23 million RGB stars from Gaia XP low-resolution spectra",
+        "url": "https://arxiv.org/abs/2309.14294",
+        "year": "2023",
+        "publication": "arXiv:2309.14294",
+        "Author": "Jiadong Li, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, David W. Hogg, Hans-Walter Rix, Vedant Chandra"
+    },
+    {
+        "name": "Recalibrating Gravitational Wave Phenomenological Waveform Model",
+        "url": "https://inspirehep.net/literature/2673384",
+        "year": "2023",
+        "publication": "arXiv:2306.17245",
+        "Author": "Kelvin K.H. Lam, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Thomas D.P. Edwards"
+    },
+    {
+        "name": "GeometricImageNet: Extending convolutional neural networks to vector and tensor images",
+        "url": "https://arxiv.org/abs/2305.12585",
+        "year": "2023",
+        "publication": "arXiv:2305.12585",
+        "Author": "Wilson Gregory, David W. Hogg, Ben Blum-Smith, Maria Teresa Arias, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Soledad Villar"
+    },
+    {
         "name": "Constraining gravitational wave amplitude birefringence with GWTC-3",
         "url": "https://inspirehep.net/literature/2658434",
         "year": "2023",

@@ -9,6 +9,7 @@
       <h2 class="subtitle">Ph.D in Physics and Astronomy</h2>
       <h3>Johns Hopkins University</h3>
       <h3>Thesis title: Building new tools for gravitational wave astronomy</h3>
+      <h3>Awarded GWIC Thesis Prize 2021</h3>
       <h3>Theseis advisor: Emanuele Berti</h3>
     </div>
     <div class="right">

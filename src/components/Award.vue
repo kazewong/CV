@@ -7,7 +7,7 @@
   <div class="row">
     <div class="left">
       <h3><a href="https://gwic.ligo.org/thesis-prize.html">GWIC-Braccini thesis prize</a></h3>
-      <h3><a href="http://www.hpc-europa.eu/">HPC-Europa 3 Transnational Access Programme</a></h3>
+      <h3><a href="http://www.hpc-europa.eu/">HPC-Europa 3 Transnational Access Programme Awardee</a></h3>
       <h3><a href="https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmmes/scholarship.html">HKSAR Reaching Out Award</a></h3>
       <h3><a href="http://www.na.cuhk.edu.hk/en-us/studentenrichment/scholarshipsandsubsidies/studentstudytripscheme.aspx">New Asia Collage Student Study Trip Scheme</a></h3>
       <h3><a href="http://www.phy.cuhk.edu.hk/admission/scholarships.html">C.N. Yang Scholarship</a></h3>

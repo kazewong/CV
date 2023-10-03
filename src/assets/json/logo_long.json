@@ -6,11 +6,16 @@
     },
     {
         "id": 2,
+        "file": "Youtube_logo_trans.png",
+        "link": "https://www.youtube.com/channel/UCt6jkLTx5GBkGQ57HiPaeLg"
+    },
+    {
+        "id": 3,
         "file": "Github_logo_trans.png",
         "link": "https://github.com/kazewong"
     },
     {
-        "id": 3,
+        "id": 4,
         "file": "Linkedin_logo_trans.png",
         "link": "https://www.linkedin.com/in/kazewkwong/"
     }
