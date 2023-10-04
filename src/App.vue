@@ -22,7 +22,7 @@ import Teaching from './components/Teaching.vue';
       <Education />
       <Position />
       <Award />
-      <Software />
+      <!-- <Software /> -->
       <Teaching />
       <Publication />
 

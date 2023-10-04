@@ -20,7 +20,7 @@ export default {
     </div>
     <div class="right">
       <h3>{{publication.year}}</h3>
-      </div>
+    </div>
   </div>
 
 </div>

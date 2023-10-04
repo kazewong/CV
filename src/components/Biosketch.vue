@@ -5,7 +5,7 @@
     <div class="content" style="margin-top: 10px;">
         <div class="row">
             <h3>I focus on building open-source machine learning-enhanced softwares for fundamental science communities to take on challenges that are progress-limiting,
-                and I deeply care about code performance, usability, and flexibility. I am 
+                and I deeply care about code performance, usability, and flexibility. 
 
             </h3>
         </div>
