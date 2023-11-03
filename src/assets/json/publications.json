@@ -57,6 +57,13 @@
         "Author": "David Ruhe, <span style='color: #0000aa;font-weight:700'>Kaze Wong</span>, Miles Cranmer, Patrick Forré"
     },
     {
+        "name": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+        "url": "https://inspirehep.net/literature/2622792",
+        "year": "2023",
+        "publication": "J. Open Source Softw. 8 (2023) 83, 5021",
+        "Author": "<span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Marylou Gabrié, Daniel Foreman-Mackey"
+    },
+    {
         "name": "A Sun-like star orbiting a black hole",
         "url": "https://inspirehep.net/literature/2512762",
         "year": "2022",
