@@ -1,12 +1,18 @@
 [
     {
+        "name": "Birefringence tests of gravity with multi-messenger binaries",
+        "url": "https://inspirehep.net/literature/2756779",
+        "year": "2024",
+        "publication": "arXiv:2402.05316",
+        "Author": "Macarena Lagos, Leah Jenks, Maximiliano Isi, Kenta Hotokezaka, Brian D. Metzger, Eric Burns, Will M. Farr, Scott Perkins, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, Nicolas Yunes"
+    },
+    {
         "name": "AspGap: Augmented Stellar Parameters and Abundances for 23 million RGB stars from Gaia XP low-resolution spectra",
         "url": "https://arxiv.org/abs/2309.14294",
         "year": "2023",
         "publication": "arXiv:2309.14294",
         "Author": "Jiadong Li, <span style='color: #0000aa;font-weight:700'>Kaze W.K. Wong</span>, David W. Hogg, Hans-Walter Rix, Vedant Chandra"
     },
-
     {
         "name": "Towards Unbiased Gravitational-Wave Parameter Estimation using Score-Based Likelihood Characterization",
         "url": "https://ml4astro.github.io/icml2023/assets/70.pdf",

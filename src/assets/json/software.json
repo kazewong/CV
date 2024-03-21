@@ -1,0 +1,32 @@
+[
+    {
+        "name": "flowMC",
+        "description": "Normalizing-flow enhanced sampling package for probabilistic inference in jax",
+        "role": "Owner",
+        "latest_release": "0.2.4"
+    },
+    {
+        "name": "jim",
+        "description": "A JAX-based gravitational-wave inference toolkit",
+        "role": "Owner",
+        "latest_release": "0.1.1"
+    },
+    {
+        "name": "rustfits",
+        "description": "A Rust library for reading FITS files",
+        "role": "Owner",
+        "latest_release": "0.1.1"
+    },
+    {
+        "name": "Voronoids",
+        "description": "A Rust library for constructing Voronoi diagram from point cloud.",
+        "role": "Owner",
+        "latest_release": "pre-release"
+    },
+    {
+        "name": "ripple",
+        "description": "Gravitational waveforms in JAX",
+        "role": "Contributer",
+        "latest_release": "0.0.4"
+    }
+]

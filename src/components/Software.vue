@@ -1,29 +1,31 @@
-<script setup>
+<script>
+import softwareList from '../assets/json/software.json';
+export default {
+    data() {
+        return {
+            show: true,
+            software: softwareList
+        };
+    },
+}
 </script>
 
 <template>
 <div class="content">
-  <h1 class="title">Softwares/Services</h1>
-  <div class="row">
+  <h1 class="title">Softwares</h1>
+  <h3>
+    Here is a list of software I have developed or contributed to.
+    The software I own or maintained can be found on my GitHub @kazewong.
+  </h3>
+  <div v-for="software in software" class="row">
     <div class="left">
-      <h2 class="subtitle">flowMC</h2>
-      <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
+      <h4 class="subtitle">{{software.name}}</h4>
+      <h5 v-html="software.description"></h5>
+    </div>
+    <div class="right">
+      <h3>{{software.role}}</h3>
     </div>
   </div>
-  <div class="row">
-    <div class="left">
-      <h2 class="subtitle">jim</h2>
-      <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
-    </div>
-  </div>
-  <div class="row">
-    <div class="left">
-      <h2 class="subtitle">flowMC</h2>
-      <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
-    </div>
-  </div>
-
-
 </div>
 </template>
 
@@ -39,8 +41,8 @@
 }
 
 .subtitle{
-  font-size: 25px;
-  font-weight: 800;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 .left{
@@ -64,3 +66,4 @@
   display: flex;
 }
 </style>
+
