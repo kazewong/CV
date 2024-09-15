@@ -13,7 +13,7 @@
       <h3><a href="http://www.phy.cuhk.edu.hk/admission/scholarships.html">C.N. Yang Scholarship</a></h3>
     </div>
     <div class="right">
-      <h3>2021</h3>
+      <h3>2022</h3>
       <h3>2020</h3>
       <h3>2015</h3>
       <h3>2015</h3>

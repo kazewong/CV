@@ -4,8 +4,10 @@
 <template>
     <div class="content" style="margin-top: 10px;">
         <div class="row">
-            <h3>I focus on building open-source machine learning-enhanced softwares for fundamental science communities to take on challenges that are progress-limiting,
-                and I deeply care about code performance, usability, and robustness. The main research topics I am working on these days include gravitational-wave, obervational astronomy, diffusion models, and large-scale deep learning.
+            <h3>
+              I work on a wide range of topics revolving around building production-grade software for real-life problems to take on challenges that are progress-limiting.
+              The topics I work on include but not limited to data-driven astrophysics, bayesian inference, high performance machine learning-enhanced simulations, robust machine learning, digital twins, medical imaging, and large-scale deep learning.
+              I deeply care about code performance, usability, and robustness. I am also a strong advocate for open-source software and reproducible research.
             </h3>
         </div>
     </div>

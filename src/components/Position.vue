@@ -6,22 +6,51 @@
   <h1 class="title">Position</h1>
   <div class="row">
     <div class="left">
-      <h2 class="subtitle">Research fellow</h2>
+      <h2 class="subtitle">Assistant Research Professor</h2>
+      <h3>Department of Applied Mathematics and Statistics, Johns Hopkins University</h3>
+    </div>
+    <div class="right">
+      <h3>Jul 2024 - Present</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="left">
+      <h2 class="subtitle">Research Software Engineer</h2>
+      <h3>Data Science and AI Institute, Johns Hopkins University</h3>
+    </div>
+    <div class="right">
+      <h3>Jul 2024 - Present</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="left">
+      <h2 class="subtitle">High Jump Coach</h2>
+      <h3>Track and Field team, Johns Hopkins University</h3>
+    </div>
+    <div class="right">
+      <h3>Jul 2024 - Present</h3>
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="left">
+      <h2 class="subtitle">Research Fellow</h2>
       <h3>Center of Computational Astrophysics, Flatiron Institute</h3>
     </div>
     <div class="right">
-      <h3>Jul 2021 - Present</h3>
+      <h3>July 2021 - July 2024</h3>
       </div>
   </div>
 
   <div class="row">
     <div class="left">
-      <h2 class="subtitle">Research assistant</h2>
-      <h3>Johns Hopkins University</h3>
+      <h2 class="subtitle">Research Assistant</h2>
+      <h3>Department of Physics and Astronomy, Johns Hopkins University</h3>
 
     </div>
     <div class="right">
-      <h3>Jul 2017 - Jul 2021</h3>
+      <h3>July 2017 - July 2021</h3>
       </div>
   </div>
 
@@ -31,7 +60,7 @@
       <h3>The Chinese University of Hong Kong</h3>
     </div>
     <div class="right">
-      <h3>Sep 2016 - Jul 2017</h3>
+      <h3>Sep 2016 - July 2017</h3>
       </div>
   </div>
 
@@ -51,7 +80,7 @@
       <h3>The Chinese University of Hong Kong</h3>
     </div>
     <div class="right">
-      <h3>May 2014 - Aug 2014</h3>
+      <h3>May 2014 - August 2014</h3>
       </div>
   </div> -->
 </div>

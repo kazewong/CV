@@ -23,7 +23,7 @@
       <h3>Research advisors: Ming-Chung Chu, Shirley Ho, Tjonnie G.F. Li</h3>
     </div>
     <div class="right">
-      <h3>Aug 2017</h3>
+      <h3>August 2017</h3>
       </div>
   </div>
 </div>

@@ -19,10 +19,11 @@ import Teaching from './components/Teaching.vue';
   <main>
       <Header />
       <Biosketch />
-      <Education />
       <Position />
+
+      <Education />
       <Award />
-      <Software />
+      <!-- <Software /> -->
       <Teaching />
       <Publication />
 

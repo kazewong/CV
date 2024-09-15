@@ -28,16 +28,16 @@ export default {
 
     <div class="description">
         <h1>Kaze, Wang-Kei Wong</h1>
-        <h5>Postdoctoral researcher</h5>
-        <h5>Center of Computational Astrophysics, Flatiron Institute</h5>
-        <h5> Gravitational-wave, Data science, Machine learning</h5>
+        <h5>Assistant Research Professor</h5>
+        <h5>Department of Applied Mathematics and Statistics, Johns Hopkins University</h5>
+        <h5>https://www.kaze-wong.com/</h5>
 
     </div>
-    <div class="logolist">
+    <!-- <div class="logolist">
         <a  v-for="logo in logos" :href=logo.link target="_blank"  rel="noopener noreferrer">
             <img :src="getImageUrl(logo.file)" class="logo" align="right">
         </a>
-    </div>
+    </div> -->
 </div>
 </template>
 
