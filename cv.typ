@@ -156,25 +156,6 @@ I work on diverse topics centered around developing *production-grade, machine l
 #pagebreak()
 
 
-= Highlighted Publications
-#resume-entry(
-  title: "Fast gravitational wave parameter estimation without compromises",
-  date: "2023",
-  description: [*Kaze W.K. Wong*, Maximiliano Isi, Thomas D.P. Edwards], 
-)
-
-#resume-entry(
-  title: "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
-  date: "2023",
-  description: [*Kaze W.K. Wong*, Marylou Gabrié, Daniel Foreman-Mackey], 
-)
-
-#resume-entry(
-  title: "Backward Population Synthesis: Mapping the Evolutionary History of Gravitational-Wave Progenitors",
-  date: "2022",
-  description: [*Kaze W.K. Wong*, Katelyn Breivik, Will M. Farr, Rodrigo Luger], 
-)
-
 = Publication list
 
 #resume-entry(
@@ -248,6 +229,18 @@ I work on diverse topics centered around developing *production-grade, machine l
   description: [Thomas C.K. Ng, Maximiliano Isi, *Kaze W.K. Wong*, Will M. Farr], 
 )
 
+#resume-entry(
+  title: "Fast gravitational wave parameter estimation without compromises",
+  date: "2023",
+  description: [*Kaze W.K. Wong*, Maximiliano Isi, Thomas D.P. Edwards], 
+)
+
+#resume-entry(
+  title: "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+  date: "2023",
+  description: [*Kaze W.K. Wong*, Marylou Gabrié, Daniel Foreman-Mackey], 
+)
+
 
 #resume-entry(
   title: "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
@@ -273,6 +266,14 @@ I work on diverse topics centered around developing *production-grade, machine l
   date: "2022",
   description: [Mark Ho-Yeuk Cheung, Vishal Baibhav, Emanuele Berti, Vitor Cardoso, Gregorio Carullo, Roberto Cotesta, Walter Del Pozzo, Francisco Duque, Thomas Helfer, Estuti Shukla, *Kaze W.K. Wong*], 
 )
+
+
+#resume-entry(
+  title: "Backward Population Synthesis: Mapping the Evolutionary History of Gravitational-Wave Progenitors",
+  date: "2022",
+  description: [*Kaze W.K. Wong*, Katelyn Breivik, Will M. Farr, Rodrigo Luger], 
+)
+
 
 #resume-entry(
   title: "Automated discovery of interpretable gravitational-wave population models",
